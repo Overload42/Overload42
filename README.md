@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Overload42**!
-- 👀 I’m interested in gaming, astro-photografy, and time-lapse.
+- 👀 I’m interested in gaming, astro-photography, and time-lapse.
 - 🌱 I’m currently learning **C++** after spending an enternity working as a Sysadmin for a Swiss bank.
 - 👋 That's about it. Hello!
 
